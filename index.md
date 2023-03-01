@@ -1,5 +1,6 @@
 ---
 title: Nostr Files
+nav_order: 1
 layout: home
 ---
 
