@@ -1,5 +1,5 @@
 ---
-title: Поддержи проект
+title: Поддержи⚡️проект
 layout: default
 nav_order: 4
 ---
