@@ -2,7 +2,7 @@
 layout: default
 title: Генераторы Vanity адресов
 parent: Основы Nostr
-nav_order: 6
+nav_order: 7
 ---
 
 # 🧮 Генераторы Vanity адресов
