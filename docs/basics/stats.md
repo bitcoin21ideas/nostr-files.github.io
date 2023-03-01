@@ -1,6 +1,7 @@
 ---
 title: Статистика
 layout: default
+parent: Основы Nostr
 nav_order: 8
 ---
 
