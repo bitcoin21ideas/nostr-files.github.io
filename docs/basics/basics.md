@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-#Oсновы Nostr
+# Oсновы Nostr
 
 ### В этом разделе представлены все основные составляющие Nostr.
 
