@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Alby + Nostrgram
+parent: Гиды
 nav_order: 5
 ---
 
