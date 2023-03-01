@@ -2,7 +2,7 @@
 layout: default
 title: Что такое Nostr?
 parent: Основы Nostr
-nav_order: 3
+nav_order: 1
 ---
 
 # Что такое Nostr?
