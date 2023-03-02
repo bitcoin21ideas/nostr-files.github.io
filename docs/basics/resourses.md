@@ -5,7 +5,9 @@ parent: Основы Nostr
 nav_order: 9
 ---
 
-# 📚 Дополнительные ресурсы
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/stats.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Гиды 🡒](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html)
+
+# Дополнительные ресурсы
 Больше информации о протоколе Nostr можно узнать здесь:
 
 * [nostr.net](https://www.nostr.net/) — список проектов Nostr
@@ -15,9 +17,11 @@ nav_order: 9
 
 ***
 
-# 💡 Биткоин-онли ресурсы
+# Биткоин-онли ресурсы
 Не забывай, что Nostr активно поддерживает Биткоин, и в протокол уже внедрена сеть Молния⚡️. Поэтому обрати внимание на ресурсы ниже:
 
 * Web: [21ideas.org](https://www.21ideas.org/)
 * Telegram: [t.me/bitcoin21ideas](https://t.me/bitcoin21ideas)
 * YouTube: [@21ideas](https://www.youtube.com/@21ideas/)
+
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/stats.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Гиды 🡒](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html)
