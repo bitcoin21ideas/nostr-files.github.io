@@ -5,7 +5,9 @@ parent: Основы Nostr
 nav_order: 4
 ---
 
-# 📱 Клиенты
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/explorers.html)
+
+# Клиенты
 Клиенты – это просто приложения, через которые вы можете взаимодействовать с протоколом Nostr. Подобно тому, как вы можете скачать разные приложения для взаимодействия с Telegram или Twitter. Периодически заглядывайте на [nostr.net](https://nostr.net#clients), где хранится список клиентов, а также обратите внимание на [сравнительную таблицу клиентов](https://github.com/vishalxl/Nostr-Clients-Features-List#nostr-client-feature-list).
 
 ## Web
@@ -22,3 +24,5 @@ nav_order: 4
 ## iOS
 * [Damus](https://damus.io/) (AppStore)
 * [Daisy](https://neb.lol/nostr) (TestFlight)
+
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/explorers.html)
