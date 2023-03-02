@@ -20,15 +20,15 @@ layout: home
 
 * **Основы**
 
-В разделе "[Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html)" доступно разъясняются базовые принципы работы с Nostr.
+В разделе "[Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html)" доступно разъясняются базовые принципы работы с Nostr.
 
 * **Гиды**
 
-Раздел "[Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html)" предоставит пошаговые инструкции для работы с протоколом.
+Раздел "[Гиды](https://nostr.21ideas.org/docs/guides/guides.html)" предоставит пошаговые инструкции для работы с протоколом.
 
 * **База знаний**
 
-В "[Базе знаний](https://bitcoin21ideas.github.io/nostr-files/docs/knowledgebase/knowledgebase.html)" представлены статьи, посвященные разным составляющим и феноменам Nostr.
+В "[Базе знаний](https://nostr.21ideas.org/docs/knowledgebase/knowledgebase.html)" представлены статьи, посвященные разным составляющим и феноменам Nostr.
 
 > ***Тони***
 > 
