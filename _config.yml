@@ -16,4 +16,4 @@ footer_content: "nostr-файлы -- это некоммерческий обр�
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
