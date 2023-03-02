@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nostrgram
+title: Веб-клиент Nostrgram
 parent: Гиды
 author: Tony
 nav_order: 1
@@ -10,7 +10,11 @@ nav_order: 1
 
 ![1](https://nostr.build/i/nostr.build_de051ceb3c0f90c21e70acb594530c182ef80b25c3bcd458f688582166dee2b7.png)
 
-# Гид по клиенту Nostrgram
+# Веб-клиент Nostrgram
+{: .fs-9 }
+
+Универсальный инструмент взаимодействия с Nostr
+{: .fs-6 .fw-300 }
 
 Существует огромное количество клиентов Nostr как для мобильных устройств, так и для браузеров. В этом гиде я познакомлю вас с основами взаимодействия с этим протоколом на примере своего любимого веб-приложения [Nostrgram](https://nostrgram.co/). На то есть несколько причин:
 
