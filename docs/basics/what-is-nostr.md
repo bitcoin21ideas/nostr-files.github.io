@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 [← Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Ключи →](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys.html)
-
+|--------------|-----------:|
 
 # Что такое Nostr?
 Nostr расшифровывается как "Заметки и всякая всячина, передаваемые по релям". Подобно HTTP или TCP-IP, Nostr – это протокол; открытый стандарт, на основе которого каждый может разрабатывать собственные проекты. Сам Nostr не является ни приложением, ни услугой.
