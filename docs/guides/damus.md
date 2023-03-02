@@ -8,6 +8,8 @@ nav_order: 3
 
 [← Nostrgram](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Nostrgram.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [База знаний →](https://bitcoin21ideas.github.io/nostr-files/docs/knowledgebase/knowledgebase.html)
 
+![Damus](https://news-image.mixi.net/article/77/77_20230225_81707_001.jpg)
+
 # Cоздание и настройка профиля в приложении Damus
 
 #### Создание и настройка профиля Nostr - от генерации ключей до настройки верификации NIP-05.
