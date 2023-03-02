@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 9
 ---
 
-[← Статистика](https://bitcoin21ideas.github.io/nostr-files/docs/basics/stats.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Гиды →](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html)
+[← Статистика](https://nostr.21ideas.org/docs/basics/stats.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Гиды →](https://nostr.21ideas.org/docs/guides/guides.html)
 
 # Дополнительные ресурсы
 Больше информации о протоколе Nostr можно узнать здесь:
@@ -24,4 +24,4 @@ nav_order: 9
 * Telegram: [t.me/bitcoin21ideas](https://t.me/bitcoin21ideas)
 * YouTube: [@21ideas](https://www.youtube.com/@21ideas/)
 
-[← Статистика](https://bitcoin21ideas.github.io/nostr-files/docs/basics/stats.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Гиды →](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html)
+[← Статистика](https://nostr.21ideas.org/docs/basics/stats.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Гиды →](https://nostr.21ideas.org/docs/guides/guides.html)
