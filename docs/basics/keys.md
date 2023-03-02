@@ -5,6 +5,9 @@ parent: Основы Nostr
 nav_order: 2
 ---
 
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
+
+
 # Ключи
 Ваши ключи – это ваша личность. Вы можете считать свой открытый ключ (`npub...`) своим именем пользователя, а свой закрытый ключ (`nsec...`) – своим паролем.
 
@@ -18,5 +21,6 @@ nav_order: 2
 {: .info }
 > Ключи в формате `hex` выглядят следующим образом: `7f5c2b4e48a0e9feca63a46b13cdb82489f4020398d60a2070a968caa818d75d`
 
-
 Для преобразования между этими двумя форматами можно использовать [инструмент конвертации ключей](https://damus.io/key/).
+
+[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
