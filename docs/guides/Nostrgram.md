@@ -6,7 +6,7 @@ author: Tony
 nav_order: 1
 ---
 
-[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
+[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →](https://bitcoin21ideas.github.io/nostr-files/docs/guides/damus.html)
 
 ![1](https://nostr.build/i/nostr.build_de051ceb3c0f90c21e70acb594530c182ef80b25c3bcd458f688582166dee2b7.png)
 
@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Регистрируемся в Nostrgram
 
-Переходим по ссылке[ nostrgram.co](http://nostrgram.co) в браузере, на котором установлено расширение Alby и нажимаем на 🔑ключик в левом верхнем углу экрана. 
+Переходим по ссылке[nostrgram.co](http://nostrgram.co) в браузере, на котором установлено расширение [Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) и нажимаем на 🔑ключик в левом верхнем углу экрана. В качестве альтернативы вы можете создать новую связку ключей (учетную запись), нажав кнопку `NEW`.
 По словам разработчика Nostrgram лучше всего работает с браузерами на основе Chromium, такими как Google Chrome и Opera, но Brave в силу своих нетривиальных настроек “ломает” некоторые функции веб-клиента, например, столь важный многим встроенный перевод постов. 
 
 Для взаимодействия с Nostrgram я использую Firefox и не заметил никаких ошибок, а Джон подтвердил, что взаимодействие клиента с Firefox не вызывало у него никаких нареканий. В будущем проблемы с Brave также будут устранены.
@@ -149,5 +149,5 @@ Almoo – npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w
 
 В Nostr также есть система дополнительной верификации пользователей. Хотите получить чекмарк? Пишите мне в ЛС 📬.
 
-[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
+[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →](https://bitcoin21ideas.github.io/nostr-files/docs/guides/damus.html)
 
