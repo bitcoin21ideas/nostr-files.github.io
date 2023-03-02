@@ -1,5 +1,4 @@
 title: Nostr Files
-logo: "/assets/images/THE NOSTR FILES.png"
 description: Всё, что нужно знать о Nostr
 theme: just-the-docs
 
@@ -9,7 +8,7 @@ aux_links:
   Nostr Files on GitHub: https://github.com/bitcoin21ideas/nostr-files
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/nostr-files logo.png"
+logo: "/assets/images/THE NOSTR FILES.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
