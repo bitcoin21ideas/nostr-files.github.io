@@ -13,4 +13,6 @@ aux_links:
 #logo: "/assets/images/nostr-files logo.png"
 
 
-
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: false
