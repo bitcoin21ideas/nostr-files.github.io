@@ -23,3 +23,17 @@ favicon_ico: "/assets/images/Nostr_Files_favicon.ico"
 # Supports true (default) or false
 heading_anchors: true
 
+callouts:
+  warning:
+    title: Внимание!
+    color: yellow
+   info:
+    title: Справка
+    color: purple
+   quote:
+    title: Цитата
+    color: grey-lt
+
+
+   
+
