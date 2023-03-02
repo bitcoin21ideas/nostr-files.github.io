@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 8
 ---
 
-[← Генераторы Vanity адресов](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Генераторы Vanity адресов](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
 
 
 # Статистика
@@ -15,4 +15,4 @@ nav_order: 8
 * [stats.nostr.band](https://stats.nostr.band/)
 * [zaplife.lol](https://zaplife.lol/)
 
-[← Генераторы Vanity адресов](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Генераторы Vanity адресов](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
