@@ -1,5 +1,4 @@
 title: Nostr Files
-logo: /assets/images/nostr-file logo.png
 description: Всё, что нужно знать о Nostr
 theme: just-the-docs
 
@@ -37,7 +36,7 @@ callouts:
     color: purple
   idea:
     title: 💡
-    color: grey-lt
+    color: grey-dk
   checkmark:
     title: ✅
     color: green
