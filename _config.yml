@@ -37,7 +37,7 @@ callouts:
   idea:
     title: 💡
     color: grey-lt
-  good:
+  checkmark:
     title: ✅
     color: green
 
