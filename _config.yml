@@ -1,11 +1,11 @@
 title: Nostr Files
-description: Всё, что тебе нужно знать о Nostr
+description: Всё, что нужно знать о Nostr
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Nostr: nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7
+  Nostr Files on GitHub: https://github.com/bitcoin21ideas/nostr-files
   
   
 # Back to top link
@@ -13,3 +13,7 @@ back_to_top: true
 back_to_top_text: "Наверх"
 
 footer_content: "nostr-файлы -- это некоммерческий образовательный проект, который нуждается в поддержке сообщества.
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
