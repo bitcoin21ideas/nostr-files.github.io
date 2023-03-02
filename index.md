@@ -4,6 +4,8 @@ nav_order: 1
 layout: home
 ---
 
+![The_Nostr_Files](https://nostr.build/i/nostr.build_38fb0e3d9862655fdab3828f909bdbb21514b9cee5e3f76ffe0362d609843479.png)
+
 # Nostr-файлы
 ### *Самая полная база знаний Nostr на русском языке*
 
