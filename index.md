@@ -1,13 +1,17 @@
 ---
 title: Nostr Files
 nav_order: 1
+author: Tony
 layout: home
 ---
 
 ![The_Nostr_Files](https://nostr.build/i/nostr.build_df5b98c1d2eaff23b9c2cb9f7d14b0ff5464dbdad694df9185467bf25a904eeb.png)
 
 # Nostr-файлы
-### *Самая полная база знаний Nostr на русском языке*
+{: .fs-9 }
+
+Самая полная база знаний Nostr на русском языке
+{: .fs-6 .fw-300 }
 
 [Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Что такое Nostr?](https://nostr.21ideas.org/docs/basics/basics.html){: .btn .fs-5 .mb-4 .mb-md-0 }
