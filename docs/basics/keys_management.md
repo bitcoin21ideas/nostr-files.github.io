@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 3
 ---
 
-[← Ключи](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Клиенты →](https://bitcoin21ideas.github.io/nostr-files/docs/basics/clients.html)
+[← Ключи](https://nostr.21ideas.org/docs/basics/keys.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Клиенты →](https://nostr.21ideas.org/docs/basics/clients.html)
 
 
 # Менеджмент ключей Nostr
@@ -17,4 +17,4 @@ nav_order: 3
 
 Расширения работают локально, так что генерируйте свой ключ, отключив интернет, и сохраняйте физический бэкап вашей пары.
 
-[← Ключи](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Клиенты →](https://bitcoin21ideas.github.io/nostr-files/docs/basics/clients.html)
+[← Ключи](https://nostr.21ideas.org/docs/basics/keys.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Клиенты →](https://nostr.21ideas.org/docs/basics/clients.html)
