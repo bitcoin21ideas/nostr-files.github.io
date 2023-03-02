@@ -6,7 +6,7 @@ author: Tony
 nav_order: 1
 ---
 
-[←] | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Nostrgram →]
+[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
 
 ![1](https://nostr.build/i/nostr.build_de051ceb3c0f90c21e70acb594530c182ef80b25c3bcd458f688582166dee2b7.png)
 
@@ -148,3 +148,6 @@ Tony – npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7
 Almoo – npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w
 
 В Nostr также есть система дополнительной верификации пользователей. Хотите получить чекмарк? Пишите мне в ЛС 📬.
+
+[← Alby](https://bitcoin21ideas.github.io/nostr-files/docs/guides/Alby.html) | [Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
+
