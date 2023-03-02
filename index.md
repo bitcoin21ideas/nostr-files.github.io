@@ -9,6 +9,9 @@ layout: home
 # Nostr-файлы
 ### *Самая полная база знаний Nostr на русском языке*
 
+[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Что такое Nostr?](https://nostr.21ideas.org/docs/basics/basics.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ***
 
 Здесь вы найдете всю необхдимую информацию, чтобы разобраться в Nostr, познакомиться с множеством его применений и создать то, что в традиционном мире называется учетной записью. 
