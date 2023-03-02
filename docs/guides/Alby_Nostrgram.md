@@ -6,7 +6,7 @@ author: Tony
 nav_order: 1
 ---
 
-[← Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
+[← Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Nostrgram →]
 
 
 ![Nostrich_Alby](https://nostr.build/i/nostr.build_efbdc25c473b662e83ef66d916960106547cdf9ca40838114c1054f46d247fb9.png)
@@ -122,5 +122,5 @@ ID заметки: `note1rupes6t0439felc29ycuq75nfqc0v3yny0gvpvgmqta6ppsh8v5q4se
 
 ![14](https://nostr.build/i/nostr.build_5b438787d38dfc4f8ce2cd6d250e8e5f7f941158c397d7b6cc2a40cad80961ea.png)
 
-[← Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Damus →]
+[← Гиды](https://bitcoin21ideas.github.io/nostr-files/docs/guides/guides.html) | [ Nostrgram →]
 
