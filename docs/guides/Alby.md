@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alby
+title: Браузерное расширение Alby
 parent: Гиды
 author: Tony
 nav_order: 1
@@ -11,7 +11,11 @@ nav_order: 1
 
 ![Nostrich_Alby](https://nostr.build/i/nostr.build_efbdc25c473b662e83ef66d916960106547cdf9ca40838114c1054f46d247fb9.png)
 
-# Браузерное расширение Alby: оптимизируйте свое взаимодействие с интернетом
+# Браузерное расширение Alby
+{: .fs-9 }
+
+Оптимизируйте свое взаимодействие с интернетом
+{: .fs-6 .fw-300 }
 
 ## Интро
 
