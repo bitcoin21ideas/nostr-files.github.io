@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 7
 ---
 
-[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
+[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
 
 
 # Генераторы Vanity адресов
@@ -28,4 +28,4 @@ nav_order: 7
 * [hitony.com](https://hitony.com/nostrogen/) — bech32 генератор (npub1)
 * [nostr.rest](https://www.nostr.rest/) — генератор адресов через хеширование
 
-[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
+[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
