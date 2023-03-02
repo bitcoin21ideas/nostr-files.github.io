@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Damus
+title: iOS приложение Damus
 parent: Гиды
 author: almoo
 nav_order: 3
@@ -10,7 +10,7 @@ nav_order: 3
 
 ![Damus](https://news-image.mixi.net/article/77/77_20230225_81707_001.jpg)
 
-# Cоздание и настройка профиля в приложении Damus
+# iOS приложение Damus
 {: .fs-9 }
 
 Создание и настройка профиля Nostr на примере приложения для [Damus](https://damus.io/) (iOS).
