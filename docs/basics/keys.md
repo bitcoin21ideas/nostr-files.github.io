@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 2
 ---
 
-[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
+[← Что такое Nostr?](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Управление ключами →](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
 
 
 # Ключи
@@ -23,4 +23,4 @@ nav_order: 2
 
 Для преобразования между этими двумя форматами можно использовать [инструмент конвертации ключей](https://damus.io/key/).
 
-[🡐](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [🡒](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
+[← Что такое Nostr?](https://bitcoin21ideas.github.io/nostr-files/docs/basics/what-is-nostr.html) | [Основы Nostr](https://bitcoin21ideas.github.io/nostr-files/docs/basics/basics.html) | [Управление ключами →](https://bitcoin21ideas.github.io/nostr-files/docs/basics/keys_management.html)
