@@ -5,4 +5,11 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Nostr: nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7
+  
+  
+# Back to top link
+back_to_top: true
+back_to_top_text: "Наверх"
+
+footer_content: "nostr-файлы -- это некоммерческий образовательный проект, который нуждается в поддержке сообщества.
