@@ -6,7 +6,7 @@ author: Tony
 nav_order: 3
 ---
 
-| [← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html)
+[← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html) |
 
 ![Damus](https://news-image.mixi.net/article/77/77_20230225_81707_001.jpg)
 
@@ -190,4 +190,4 @@ nav_order: 3
 
 Введите в поиске @username человека из Twitter и если тот связывал свой публичный ключ Nostr с Twitter-аккаунтом на nostr.directory, то он появится в результатах поиска. Вы так же можете добавить свой аккаунт на nostr.directory, чтобы ваши подписчики смогли найти ваш публичный ключ в будущем. Но это опционально.
 
-| [← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html)
+[← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html) |
