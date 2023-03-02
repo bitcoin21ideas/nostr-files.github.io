@@ -28,13 +28,13 @@ layout: home
 
 В "[Базе знаний](https://bitcoin21ideas.github.io/nostr-files/docs/knowledgebase/knowledgebase.html)" представлены статьи, посвященные разным составляющим и феноменам Nostr.
 
-*Тони*
-
-Nostr public key:`npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
-
-*almoo*
-
-Nostr public key: `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
+> ***Тони***
+> 
+>   Nostr public key:`npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
+> 
+> ***almoo***
+> 
+>   Nostr public key: `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
 
 {: .info }
 > Все разделы и посты можно найти в боковом меню *(слева на десктопе и справа вверху на мобильных устройствах).*
