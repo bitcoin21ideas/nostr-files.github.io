@@ -7,9 +7,6 @@ url: https://github.com/bitcoin21ideas/nostr-files
 aux_links:
   Nostr Files on GitHub: https://github.com/bitcoin21ideas/nostr-files
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "https://nostr.build/i/nostr.build_38fb0e3d9862655fdab3828f909bdbb21514b9cee5e3f76ffe0362d609843479.png"
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: false
