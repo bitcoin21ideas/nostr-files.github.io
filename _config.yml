@@ -25,15 +25,17 @@ heading_anchors: true
 
 callouts_level: quiet # or loud
 callouts:
- warning:
-  title: Внимание!
-  color: yellow
- info:
-  title: Справка
-  color: purple
- quote:
-  title: Цитата
-  color: grey-lt
+  highlight:
+    color: yellow
+  warning:
+    title: Внимание
+    color: red
+  info:
+    title: Справка
+    color: purple
+  quote:
+    title: Цитата
+    color: grey-lt
 
 
    
