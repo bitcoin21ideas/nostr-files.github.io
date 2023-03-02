@@ -31,7 +31,6 @@ callouts:
     title: Внимание
     color: red
   info:
-    title: Справка
     color: purple
   quote:
     title: Цитата
