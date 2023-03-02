@@ -26,16 +26,19 @@ heading_anchors: true
 callouts_level: quiet # or loud
 callouts:
   highlight:
+    title: ⚠️
     color: yellow
   warning:
-    title: Внимание
+    title: ❗️
     color: red
   info:
+    title: ℹ️
     color: purple
-  quote:
-    title: Цитата
+  idea:
+    title: 💡
     color: grey-lt
   good:
+    title: ✅
     color: green
 
    
