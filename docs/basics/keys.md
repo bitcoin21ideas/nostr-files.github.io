@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 2
 ---
 
-[← Что такое Nostr?](https://nostr.21ideas.org/docs/basics/what-is-nostr.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Управление ключами →](https://nostr.21ideas.org/docs/basics/keys_management.html)
+[← Что такое Nostr?](https://nostr.21ideas.org/docs/basics/what-is-nostr.html) | [Управление ключами →](https://nostr.21ideas.org/docs/basics/keys_management.html)
 
 
 # Ключи
@@ -23,4 +23,4 @@ nav_order: 2
 
 Для преобразования между этими двумя форматами можно использовать [инструмент конвертации ключей](https://damus.io/key/).
 
-[← Что такое Nostr?](https://nostr.21ideas.org/docs/basics/what-is-nostr.html) | [Основы Nostr](https://nostr.21ideas.org/docs/basics/basics.html) | [Управление ключами →](https://nostr.21ideas.org/docs/basics/keys_management.html)
+[← Что такое Nostr?](https://nostr.21ideas.org/docs/basics/what-is-nostr.html) | [Управление ключами →](https://nostr.21ideas.org/docs/basics/keys_management.html)
