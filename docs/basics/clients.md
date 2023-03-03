@@ -14,12 +14,7 @@ nav_order: 4
 > Ниже мы перечислим клиенты, подпадающие под категорию "социальных сетей", то есть приложения, позволяющие вам общаться с другими пользователями подобно тому, как вы это делаете на традиционных социальных площадках типа Twitter или VK.
 
 ## Web
-* [nostrgram](https://nostrgram.co/)
-{: .d-inline-block }
-
-
-Доступен гид
-{: .label .label-purple }
+* [nostrgram](https://nostrgram.co/)[^1]
 * [snort.social](https://snort.social/)
 * [iris](https://iris.to/)
 
@@ -29,15 +24,17 @@ nav_order: 4
 * [Current](https://app.getcurrent.io/) 
 
 ## iOS
-* [Damus](https://damus.io/) (AppStore)
-{: .d-inline-block }
-
-Доступен гид
-{: .label .label-purple }
+* [Damus](https://damus.io/) (AppStore)[^2]
 * [Daisy](https://neb.lol/nostr) (TestFlight)
 * [Current](https://app.getcurrent.io/) 
 
 {: .info }
 > Множество других клиентов, позволяющих использовать Nostr самыми разными способами, перечислено в разделе "[Инструменты](https://nostr.21ideas.org/docs/basics/tools.html)".
+
+***
+
+[^1]: Гид по веб-клиенту *Nostrgram* доступен по [этой ссылке](https://nostr.21ideas.org/docs/guides/Nostrgram.html).
+
+[^2]: Гид по клиенту для iOS *Damus* доступен по [этой ссылке](https://nostr.21ideas.org/docs/guides/damus.html).
 
 [← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Релеи →](https://nostr.21ideas.org/docs/basics/explorers.html)
