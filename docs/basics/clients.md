@@ -15,6 +15,8 @@ nav_order: 4
 
 ## Web
 * [nostrgram](https://nostrgram.co/)
+Доступен гид
+{: .label .label-purple }
 * [snort.social](https://snort.social/)
 * [iris](https://iris.to/)
 
@@ -25,6 +27,8 @@ nav_order: 4
 
 ## iOS
 * [Damus](https://damus.io/) (AppStore)
+Доступен гид
+{: .label .label-purple }
 * [Daisy](https://neb.lol/nostr) (TestFlight)
 * [Current](https://app.getcurrent.io/) 
 
