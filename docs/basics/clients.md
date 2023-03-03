@@ -15,6 +15,8 @@ nav_order: 4
 
 ## Web
 * [nostrgram](https://nostrgram.co/)
+{: .d-inline-block }
+
 
 Доступен гид
 {: .label .label-purple }
@@ -28,6 +30,7 @@ nav_order: 4
 
 ## iOS
 * [Damus](https://damus.io/) (AppStore)
+{: .d-inline-block }
 
 Доступен гид
 {: .label .label-purple }
