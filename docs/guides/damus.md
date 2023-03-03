@@ -126,7 +126,7 @@ nav_order: 3
 
 <div style="text-align: center;">
 
-![LN-Temptation](https://nostr.build/i/nostr.build_46627ace49d1d10294739334d8a3737e239929009825724e5fecfa5a5de94fb9.jpg "LN temptation")
+![LN-Temptation](https://nostr.build/i/nostr.build_46627ace49d1d10294739334d8a3737e239929009825724e5fecfa5a5de94fb9.jpg)
 
 </div>
 
