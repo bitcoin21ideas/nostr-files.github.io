@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 6
 ---
 
-[← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы Vanity адресов →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
+[← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы запоминающихся ключей →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
 
 # Инструменты
 Nostr не ограничивается социальными сетями, ведь он способен на многое. 
@@ -36,4 +36,4 @@ Nostr не ограничивается социальными сетями, в�
 * [nostr.band](https://nostr.band/) -- помимо других функций также предлагает поиск по Nostr.
 * [nostr.buid](https://nostr.build/) -- сервис загрузки медиафайлов. 
 
-[← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы Vanity адресов →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
+[← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы запоминающихся ключей →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
