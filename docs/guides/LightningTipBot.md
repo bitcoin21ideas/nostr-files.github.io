@@ -130,6 +130,9 @@ LTB выведет общение участников Телеграм-чата
 ![zap-on-nostr](https://nostr.build/i/nostr.build_663ee70ad21ac29b461f87c52c7a3f27ac75df783408b4e640d2ae3f6a199c2f.png)
 
 Вы также можете ввести свой публичный ключ Nostr командой `/nostr add <ваш публичный ключ>`, чтобы получить [верификацию NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html). 
+Далее просто введите свой LTB-адрес в поле NIP-05 в настройках своего Nostr-клиента:
+
+![NIP-05-lntip](https://nostr.build/i/nostr.build_2c22cf37e569ef7e768591d29653d611a0a5df70702fbfa0eb28b991352e8259.png)
 
 
 ## Команды
