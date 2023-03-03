@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 7
 ---
 
-[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
+[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Верификация NIP-05 →](https://nostr.21ideas.org/docs/basics/stats.html)
 
 # Генераторы запоминающихся ключей
 Генераторы запоминающихся ключей, известных в биткоин-кругах как [Vanity-адреса](https://en.bitcoin.it/wiki/Vanitygen#Difficulty_of_finding_a_vanity_address), позволяют создать публичный ключ Nostr, который будет начинаться c выбранных вами символов (или заканчиваться ими). Такая утилита позволяет добавить немного персонализации вашему адресу. Учтите, что чем больше символов вы хотите указать, тем больше времени займет Proof-of-Work генерация такого адреса (зависит от мощности вашего компьютера).
@@ -29,4 +29,4 @@ nav_order: 7
 {: .highlight}
 > Генерация Vanity-адресов не является обязательной, но если вы все же решили завладеть "красивым" адресом, делайте это в оффлайн-среде (на устройстве, отключенном от интернета).
 
-[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Статистика →](https://nostr.21ideas.org/docs/basics/stats.html)
+[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Верификация NIP-05 →](https://nostr.21ideas.org/docs/basics/stats.html)
