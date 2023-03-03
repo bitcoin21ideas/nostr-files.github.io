@@ -8,7 +8,9 @@ nav_order: 6
 [← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы Vanity адресов →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
 
 # Инструменты
-Nostr не ограничивается социальными сетями, ведь он способен на многое. Вот несколько проектов на базе протокола:
+Nostr не ограничивается социальными сетями, ведь он способен на многое. 
+
+Обратите внимание на несколько проектов на базе протокола:
 
 * [Jester](https://jesterui.github.io/) -- играйте в шахматы через Nostr
 * [Sendstr](https://sendstr.com/) -- буфер обмена между устройствами через Nostr
