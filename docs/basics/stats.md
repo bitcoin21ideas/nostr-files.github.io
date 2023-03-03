@@ -2,10 +2,10 @@
 title: Статистика
 layout: default
 parent: Основы Nostr
-nav_order: 8
+nav_order: 9
 ---
 
-[← Генераторы запоминающихся ключей](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
 
 
 # Статистика
@@ -16,4 +16,4 @@ nav_order: 8
 * [zaplife.lol](https://zaplife.lol/)
 * [nostr.io](https://nostr.io/)
 
-[← Генераторы запоминающихся ключей](https://nostr.21ideas.org/docs/basics/vanity_address.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
