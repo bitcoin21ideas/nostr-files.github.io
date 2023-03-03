@@ -2,7 +2,7 @@
 layout: default
 title: Дополнительные ресурсы
 parent: Основы Nostr
-nav_order: 9
+nav_order: 10
 ---
 
 [← Статистика](https://nostr.21ideas.org/docs/basics/stats.html) |
