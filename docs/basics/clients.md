@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 4
 ---
 
-[← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Обозреватели →](https://nostr.21ideas.org/docs/basics/explorers.html)
+[← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Релеи →](https://nostr.21ideas.org/docs/basics/explorers.html)
 
 # Клиенты
 Клиенты – это просто приложения, через которые вы можете взаимодействовать с протоколом Nostr. Подобно тому, как вы можете скачать разные приложения для взаимодействия с Telegram или Twitter. Периодически заглядывайте на [nostr.net](https://nostr.net#clients), где хранится список клиентов, а также обратите внимание на [сравнительную таблицу клиентов](https://github.com/vishalxl/Nostr-Clients-Features-List#nostr-client-feature-list).
@@ -25,4 +25,4 @@ nav_order: 4
 * [Damus](https://damus.io/) (AppStore)
 * [Daisy](https://neb.lol/nostr) (TestFlight)
 
-[← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Обозреватели →](https://nostr.21ideas.org/docs/basics/explorers.html)
+[← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Релеи →](https://nostr.21ideas.org/docs/basics/explorers.html)
