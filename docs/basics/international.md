@@ -11,6 +11,9 @@ nav_order: 10
 
 Nostr заинтриговал пытливые умы по всему миру. Есть знакомые иностранцы, которых вы хотите познакомить с Nostr? Обратите вниамние на этот список ресурсов:
 
+{: .info }
+> Ресурсы взяты с сайта [Nostr International](https://nostr.international/), где они обновляются с завидной скоростью.
+
 * 🇷🇺: 
   * 🗃️ [nostr.21ideas.org](https://nostr.21ideas.org/)
 * 🇨🇳: 
@@ -39,8 +42,5 @@ Nostr заинтриговал пытливые умы по всему миру.
   * 📰 [Nostr](https://techsauce.co/tech-and-biz/nostr-decentralized-social-media)
 * 🇳🇱:
   * 🎙️ [256 B: Nostr als écht decentraal alternatief op Twitter](https://www.bnr.nl/podcast/cryptocast/10502074/256-b-nostr-als-echt-decentraal-alternatief-op-twitter)
-
-{: .info }
-> Ресурсы взяты с сайта [Nostr International](https://nostr.international/), где они обновляются с завидной скоростью.
 
 [← Cтатистика](https://nostr.21ideas.org/docs/basics/stats.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
