@@ -105,12 +105,6 @@ nav_order: 3
 > 
 > @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 
-***
-
-[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-*** 
-
 ## Настройка профиля
 ![Profile-Damus](https://telegra.ph/file/4ca5060d249853c5826c7.png)
 *Страница настройки профиля в клиенте Damus*
@@ -150,6 +144,12 @@ nav_order: 3
 
 {: .info }
 > Веб-клиент Nostrgrm, который мы [разбирали здесь](https://nostr.21ideas.org/docs/guides/Nostrgram.html), позволяет прикладывать файлы к постам простым перетаскиванием медиа.
+
+***
+
+[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+*** 
 
 ## NIP-05 Верификация
 
