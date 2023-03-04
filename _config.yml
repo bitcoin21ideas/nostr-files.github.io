@@ -40,5 +40,7 @@ callouts:
     title: ✅
     color: green
 
+plugins:
+  - jekyll-seo-tag
    
 
