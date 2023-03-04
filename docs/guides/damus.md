@@ -6,7 +6,7 @@ author: almoo
 nav_order: 3
 ---
 
-[← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html) |
+[← Nostrgram](https://nostr.21ideas.org/docs/guides/Nostrgram.html) | [LightningTipBot →](https://nostr.21ideas.org/docs/guides/LightningTipBot.html)
 
 ![Damus](https://news-image.mixi.net/article/77/77_20230225_81707_001.jpg)
 
@@ -15,6 +15,10 @@ nav_order: 3
 
 Создание и настройка профиля Nostr на примере приложения для [Damus](https://damus.io/) (iOS).
 {: .fs-6 .fw-300 }
+
+***
+
+[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Генерация ключей
 Ключи Nostr можно сгенерировать в (практически) любом клиенте. Если вы выбираете нативный клиент для iOS или Android, то генерируйте свою пару ключей внутри клиентов. В редких случаях возможность генерации в клиенте может отсутствовать, тогда генерируйте свою пару с помощью расширений [Alby](https://nostr.21ideas.org/docs/guides/Alby.html) или Nos2x.
@@ -100,6 +104,12 @@ nav_order: 3
 > @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
 > 
 > @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
+
+***
+
+[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+*** 
 
 ## Настройка профиля
 ![Profile-Damus](https://telegra.ph/file/4ca5060d249853c5826c7.png)
