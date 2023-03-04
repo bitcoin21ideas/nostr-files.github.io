@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Дополнительные ресурсы
+title: Международный протокол
 parent: Основы Nostr
 nav_order: 10
 ---
