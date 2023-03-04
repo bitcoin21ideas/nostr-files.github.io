@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 9
 ---
 
-[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Международный протокол →](https://nostr.21ideas.org/docs/basics/international.html)
 
 
 # Статистика
@@ -16,4 +16,4 @@ nav_order: 9
 * [zaplife.lol](https://zaplife.lol/)
 * [nostr.io](https://nostr.io/)
 
-[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
+[← Верификация NIP-05](https://nostr.21ideas.org/docs/basics/nip-05.html) | [Международный протокол →](https://nostr.21ideas.org/docs/basics/international.html)
