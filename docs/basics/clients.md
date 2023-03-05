@@ -24,7 +24,7 @@ nav_order: 4
 
 ***
 
-[^1]: Гид по веб-клиенту *Nostrgram* доступен по [этой ссылке](https://nostr.21ideas.org/docs/guides/Nostrgram.html).
+[^1]: Гид по веб-клиенту *Nostrgram* доступен по [этой ссылке](https://nostr.21ideas.org/docs/guides/Nostrgram.html). 
 
 [^2]: Гид по клиенту для iOS *Damus* доступен по [этой ссылке](https://nostr.21ideas.org/docs/guides/damus.html).
 
