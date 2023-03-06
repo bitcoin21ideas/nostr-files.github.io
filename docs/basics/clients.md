@@ -7,6 +7,8 @@ nav_order: 4
 
 [← Управление ключами](https://nostr.21ideas.org/docs/basics/keys_management.html) | [Релеи →](https://nostr.21ideas.org/docs/basics/explorers.html)
 
+![clients](https://cdn.discordapp.com/attachments/1082203170979205172/1082238998510059540/Tony_HODLer_Blueprint_of_numerous_apps_icons_Leonardo_Da_Vinci__5868fb9f-870c-4663-88de-21b64aa6425a.png)
+
 # Клиенты
 Клиенты – это просто приложения, через которые вы можете взаимодействовать с протоколом Nostr. Подобно тому, как вы можете скачать разные приложения для взаимодействия с Telegram или Twitter. Исчерпывающий список клиентов доступен на [nostr.net](https://nostr.net#clients). Обратите внимание на [сравнительную таблицу клиентов](https://github.com/vishalxl/Nostr-Clients-Features-List#nostr-client-feature-list).
 
