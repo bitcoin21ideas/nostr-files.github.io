@@ -6,13 +6,13 @@ author: raptor
 nav_order: 1
 ---
 
+![hacker](https://nvk.org/nostrich.jpeg](https://nvk.org/nostrich.jpeg) 
+
 # Что такое "клиенты" в Nostr?
 {: .fs-9 }
 
 Разбираемся в одной из основных составляющих протокола Nostr
 {: .fs-6 .fw-300 }
-
-![hacker]([https://nvk.org/nostrich.jpeg](https://nvk.org/nostrich.jpeg)) 
 
 [Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
