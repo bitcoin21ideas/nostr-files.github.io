@@ -7,6 +7,8 @@ nav_order: 5
 
 [← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Инструменты →](https://nostr.21ideas.org/docs/basics/tools.html) 
 
+![relays](https://cdn.discordapp.com/attachments/1082203170979205172/1082240226396737536/Tony_HODLer_Blueprint_of_a_retro_sypherpunk_radio_Leonardo_Da_V_5340122a-8026-4b53-8ff7-67d06df92c84.png)
+
 # Релеи
 Релеи -- это "серверы" Nostr. Они позволяют клиентам отправлять им сообщения, могут хранить (или не хранить) эти сообщения и транслировать их всем другим подключенным клиентам.
 Чтобы клиент работал, его нужно подключить к одному или нескольким релеям. Можно как запустить собственный релей, так и присоединиться к уже запущенным. 
