@@ -7,6 +7,8 @@ nav_order: 11
 
 [← Международный протокол](https://nostr.21ideas.org/docs/basics/stats.html) |
 
+![books](https://cdn.discordapp.com/attachments/1082203170979205172/1082302649321390141/Tony_HODLer_hyper_realistic_sketch_of_the_library_wall_full_of__90804a51-5d10-445f-ab7b-7c2070a1c603.png)
+
 # Дополнительные ресурсы
 
 Больше информации о протоколе Nostr можно узнать из этих англоязычных ресурсов:
