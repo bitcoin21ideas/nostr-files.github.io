@@ -7,6 +7,8 @@ nav_order: 6
 
 [← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Генераторы запоминающихся ключей →](https://nostr.21ideas.org/docs/basics/vanity_address.html)
 
+![tools](https://cdn.discordapp.com/attachments/1082203170979205172/1082235474732662894/Tony_HODLer_Blueprint_of_numerous_engineering_tools_Leonardo_Da_a75c450e-6955-43d3-bce0-6f9c4d1e5add.png)
+
 # Инструменты
 Nostr не ограничивается социальными сетями, ведь он способен на многое. 
 
