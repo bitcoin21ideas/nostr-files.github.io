@@ -7,6 +7,7 @@ nav_order: 3
 
 [← Ключи](https://nostr.21ideas.org/docs/basics/keys.html) | [Клиенты →](https://nostr.21ideas.org/docs/basics/clients.html)
 
+![key-managers](https://cdn.discordapp.com/attachments/1082203170979205172/1082237883248803910/Tony_HODLer_Blueprint_of_numerous_modern_cypherpunk_wallets_Leo_69da9f93-0aa1-47d6-8d37-df438f0c7b51.png)
 
 # Менеджмент ключей Nostr
 
