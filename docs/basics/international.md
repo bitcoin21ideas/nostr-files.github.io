@@ -7,6 +7,8 @@ nav_order: 10
 
 [← Cтатистика](https://nostr.21ideas.org/docs/basics/stats.html) | [Дополнительные ресурсы →](https://nostr.21ideas.org/docs/basics/resourses.html)
 
+![international](https://cdn.discordapp.com/attachments/1082203170979205172/1082300724936966144/Tony_HODLer_Blueprint_of_the_world_map_geographically_correct_L_904bd5fe-072b-4f4f-8f26-21a672f51202.png)
+
 # Nostr на разных языках мира
 
 Nostr заинтриговал пытливые умы по всему миру. Есть знакомые иностранцы, которых вы хотите познакомить с Nostr? Обратите вниамние на этот список ресурсов:
