@@ -6,7 +6,7 @@ author: raptor
 nav_order: 1
 ---
 
-![hacker](https://nvk.org/nostrich.jpeg](https://nvk.org/nostrich.jpeg) 
+![hacker](https://nvk.org/nostrich.jpeg) 
 
 # Что такое "клиенты" в Nostr?
 {: .fs-9 }
