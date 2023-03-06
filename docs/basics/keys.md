@@ -7,6 +7,7 @@ nav_order: 2
 
 [← Что такое Nostr?](https://nostr.21ideas.org/docs/basics/what-is-nostr.html) | [Управление ключами →](https://nostr.21ideas.org/docs/basics/keys_management.html)
 
+![keys](https://cdn.discordapp.com/attachments/1082203170979205172/1082236494363770900/Tony_HODLer_Blueprint_of_numerous_keys_Leonardo_Da_Vinci_white__8e05ce5f-ab2e-4e50-8197-b114961c127c.png)
 
 # Ключи
 Ваши ключи – это ваша личность. Вы можете считать свой открытый ключ (`npub...`) своим именем пользователя, а свой закрытый ключ (`nsec...`) – своим паролем.
