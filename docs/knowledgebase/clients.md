@@ -132,15 +132,15 @@ Nostr клиент – это программное обеспечение, к�
 
 Для iOS и Android были выпущены следующие приложения:
 
-| iOS            | Android        |
+| iOS                                   | Android                                                                                    |
 
-|:------------------|:-------------|
+|:--------------------------------------|:-------------------------------------------------------------------------------------------|
 
-| [Damus](https://damus.io/) | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en) |
+| [Damus](https://damus.io/)            | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en) |
 
-| [Daisy](https://neb.lol/nostr) | [Daisy](https://neb.lol/nostr)        |
+| [Daisy](https://neb.lol/nostr)        | [Daisy](https://neb.lol/nostr)                                                             |
 
-| [Current](https://app.getcurrent.io/) | [Current](https://app.getcurrent.io/)    |
+| [Current](https://app.getcurrent.io/) | [Current](https://app.getcurrent.io/)                                                      |
 
 *Список мобильных Nostr-приложений*
 
