@@ -276,8 +276,6 @@ wss://filter.nostr.wine/**npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6
 
 ### Надежная опора
 
-[https://nostr.band/note1ukmaarf2t9dkhxkphwh4sv4qsrtnvxwz09wmfpgsujwh3m48h8gstyef2f](https://nostr.band/note1ukmaarf2t9dkhxkphwh4sv4qsrtnvxwz09wmfpgsujwh3m48h8gstyef2f) 
-
 Но одного _Nostr Wine_ или _Nostrich Land_ скорее всего будет недостаточно. Вдруг разработчикам придется перезапустить сервер или они вовсе будут вынуждены его закрыть? На роль запасного варианта отлично подойдет бесплатный релей wss://relay.nostr.band. Этот релей считывает события со всех известных релеев и применяет к ним спам-фильтр. Он также отправляет ваши заметки на wss://relay.nostr.band. 
 
 
