@@ -41,7 +41,11 @@ _Ссылка на заметку: [snort.social](https://snort.social/e/note17g
 
 Более привычный русскоязычным пользователям Телеграм тоже не радует, навязывая назойливую рекламу щиткоинов, банкстерских картелей и мусора, притворяющегося едой. 
 
+<div align="center">
+
 ![nft-ad](https://nostr.build/i/nostr.build_33f235a82c7a4e9f9ceca55a49fbd3cb2527d1dcfc59ead1cd0a1d9ab6e49f26.jpeg)
+
+</div>
 
 {: .highlight }
 
