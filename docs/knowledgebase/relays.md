@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Что такое "клиенты" в Nostr?
+title: Nostr-релеи: решение проблемы цензурирования
 parent: База знаний
 author: Tony
 nav_order: 1
