@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nostr-релеи: решение проблемы цензурирования
+title: Nostr-релеи как решение проблемы цензурирования
 parent: База знаний
 author: Tony
 nav_order: 1
