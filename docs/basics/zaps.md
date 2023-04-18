@@ -33,7 +33,7 @@ nav_order: 5
 
 ---
 
-[← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Инструменты →](https://nostr.21ideas.org/docs/basics/tools.html) 
+[← Релеи](https://nostr.21ideas.org/docs/basics/explorers.html) | [Инструменты →](https://nostr.21ideas.org/docs/basics/tools.html) 
 
 ---
 
