@@ -23,10 +23,6 @@ nav_order: 5
 
 Подробнее о лайтнинг-адресах можно узнать из [этого](https://t.me/bitcoin21ideas/2485) телеграм-поста.
 
-
-![alt_text](images/image1.png "image_tooltip")
-
-
 ![ln-address](https://nostr.build/p/nb5648.png)
 
 Мой лайтнинг-адрес в настройках профиля Nostr-клиента [snort.social](https://snort.social/)
