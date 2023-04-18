@@ -5,7 +5,7 @@ parent: Основы Nostr
 nav_order: 5
 ---
 
-[← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Инструменты →](https://nostr.21ideas.org/docs/basics/tools.html) 
+[← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Запы →](https://nostr.21ideas.org/docs/basics/zaps.html) 
 
 ![relays](https://cdn.discordapp.com/attachments/1082203170979205172/1082240226396737536/Tony_HODLer_Blueprint_of_a_retro_sypherpunk_radio_Leonardo_Da_V_5340122a-8026-4b53-8ff7-67d06df92c84.png)
 
@@ -27,4 +27,4 @@ nav_order: 5
 
 ---
 
-[← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Инструменты →](https://nostr.21ideas.org/docs/basics/tools.html) 
+[← Клиенты](https://nostr.21ideas.org/docs/basics/clients.html) | [Запы →](https://nostr.21ideas.org/docs/basics/zaps.html) 
