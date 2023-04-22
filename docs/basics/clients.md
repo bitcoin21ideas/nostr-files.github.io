@@ -17,9 +17,9 @@ nav_order: 4
 
 | Веб        | iOS          | Android |
 |:-------------|:------------------|:------|
-| [nostrgram](https://nostrgram.co/) [^1] | [Damus](https://damus.io/) (AppStore) [^2] | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en)  |
-| [snort.social](https://snort.social/) | [Daisy](https://neb.lol/nostr) (TestFlight) | [Daisy](https://neb.lol/nostr) (APK)  |
-| [iris](https://iris.to/) | [Current](https://app.getcurrent.io/) (TestFlight) | [Current](https://app.getcurrent.io/) (Test Version) |
+| [nostrgram](https://nostrgram.co/) [^1] | [Damus](https://damus.io/) (доступен на русском) [^2] | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en)  |
+| [snort.social](https://snort.social/) (доступен на русском| [Plebstr](https://plebstr.com/) | [Plebstr](https://plebstr.com/)  |
+| [iris](https://iris.to/) | [Current](https://app.getcurrent.io/) | [Current](https://app.getcurrent.io/) |
 
 {: .info }
 > Множество других клиентов, позволяющих использовать Nostr самыми разными способами, перечислено в разделе "[Инструменты](https://nostr.21ideas.org/docs/basics/tools.html)".
