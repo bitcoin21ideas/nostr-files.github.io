@@ -28,7 +28,7 @@ _Вводный ностр-подкаст, где мы обсудили базо
 * Сложности и недочеты протокола
 * Перспективы
 
-Слушать на [Fountain](https://fountain.fm/episode/14740921608).
+[Слушать на Fountain](https://fountain.fm/episode/14740921608){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ***
 
