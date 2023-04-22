@@ -12,7 +12,7 @@ has_children: false
 Подкасты на русском, посвященные Ностр
 {: .fs-6 .fw-300 }
 
-_Все подкасты доступны на Fountain и целом ряде подкаст-площадок с поддержкой сети Лайтнинг._
+_Все подкасты доступны на Fountain (в [приложении](https://fountain.fm/tony_lightning?code=6ded00e540) или [веб-формате](https://fountain.fm/show/chmjnVB1ZkSY3MC2FxY8)) и [множестве подкаст-площадок](https://podcastindex.org/apps?elements=Value) с поддержкой сети [Лайтнинг](https://www.21ideas.org/theory-lightning-why-lightning/)._
 
 
 ### Беседы о Ностр EP-01 | Игорь Аутц
