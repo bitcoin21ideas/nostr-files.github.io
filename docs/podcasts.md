@@ -31,5 +31,3 @@ _Вводный ностр-подкаст, где мы обсудили базо
 [Слушать на Fountain](https://fountain.fm/episode/14740921608){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ***
-
-[Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
