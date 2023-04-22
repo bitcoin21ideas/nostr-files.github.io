@@ -17,8 +17,8 @@ nav_order: 4
 
 | Веб        | iOS          | Android |
 |:-------------|:------------------|:------|
-| [nostrgram](https://nostrgram.co/) [^1] | [Damus](https://damus.io/) (доступен на русском) [^2] | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en)  |
-| [snort.social](https://snort.social/) (доступен на русском| [Plebstr](https://plebstr.com/) | [Plebstr](https://plebstr.com/)  |
+| [nostrgram](https://nostrgram.co/) [^1] | [Damus](https://damus.io/) [^2] (доступен на русском) | [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en)  |
+| [snort.social](https://snort.social/) (доступен на русском) | [Plebstr](https://plebstr.com/) | [Plebstr](https://plebstr.com/)  |
 | [iris](https://iris.to/) | [Current](https://app.getcurrent.io/) | [Current](https://app.getcurrent.io/) |
 
 {: .info }
