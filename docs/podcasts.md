@@ -14,10 +14,14 @@ has_children: false
 
 _Все подкасты доступны на Fountain (в [приложении](https://fountain.fm/tony_lightning?code=6ded00e540) или [веб-формате](https://fountain.fm/show/chmjnVB1ZkSY3MC2FxY8)) и [множестве подкаст-площадок](https://podcastindex.org/apps?elements=Value) с поддержкой сети [Лайтнинг](https://www.21ideas.org/theory-lightning-why-lightning/)._
 
+***
 
 ### Беседы о Ностр EP-01 | Игорь Аутц
 
-Вводный ностр-подкаст, где мы обсудили базовые аспекты протокола. Слушать на [Fountain](https://fountain.fm/episode/14740921608).
+_Вводный ностр-подкаст, где мы обсудили базовые аспекты протокола._ 
 
+Слушать на [Fountain](https://fountain.fm/episode/14740921608).
+
+***
 
 [Поддержать проект](https://nostr.21ideas.org/docs/support.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
