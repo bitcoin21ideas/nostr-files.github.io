@@ -18,7 +18,7 @@
  "metadata":"[[\"text/identifier\",\"21ideas@getalby.com\"],[\"text/plain\",\"Sats for 21ideas\"]]",
 
 
- "minSendable":21,"maxSendable":11000000000,
+ "minSendable":1,"maxSendable":11000000000,
 
 
  "payerData":{
