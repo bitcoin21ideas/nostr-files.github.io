@@ -5,7 +5,7 @@ nav_order: 4
 has_children: false
 ---
 
-![nostr-talks](https://nostr.build/p/nb6151.png)
+![nostr-talks](https://nostr.build/p/nb6411.png)
 
 # Беседы о Ностр
 
