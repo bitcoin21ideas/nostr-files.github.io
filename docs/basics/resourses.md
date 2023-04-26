@@ -7,16 +7,17 @@ nav_order: 11
 
 [← Международный протокол](https://nostr.21ideas.org/docs/basics/stats.html) |
 
-![books](https://cdn.discordapp.com/attachments/1082203170979205172/1082302649321390141/Tony_HODLer_hyper_realistic_sketch_of_the_library_wall_full_of__90804a51-5d10-445f-ab7b-7c2070a1c603.png)
+![books](https://nostr.build/p/nb6490.png)
 
 # Дополнительные ресурсы
 
 Больше информации о протоколе Nostr можно узнать из этих англоязычных ресурсов:
 
+* [bevstr](https://www.bevstr.com/Nostr/) -- список важных Nostr-ресурсов на английском
+* [nostr.how](https://nostr.how/) -- упорядоченная база данных Nostr, чем-то напоминает [nostr.21ideas.org](https://nostr.21ideas.org/)
 * [nostr.net](https://www.nostr.net/) —- список проектов Nostr
 * [nostr-resources.com](https://nostr-resources.com/) —- ресурс Gigi
 * [uselessshit.co](https://uselessshit.co/resources/nostr/) —- F.A.Q.
-* [nostr.how](https://nostr.how/) -- упорядоченная база данных Nostr, чем-то напоминает [nostr.21ideas.org](https://nostr.21ideas.org/)
 
 ***
 
