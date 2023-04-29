@@ -1,0 +1,10 @@
+<script
+	src="https://nostri.chat/public/bundle.js"
+	// YOUR PUBKEY IN HEX FORMAT
+	data-website-owner-pubkey="npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7"
+	// THE TYPE OF CHAT YOU WANT: GLOBAL or DMs
+	data-chat-type="DM" 
+	// Relays you'd like to use, change this this as you wish
+	data-relays="wss://relay.snort.social,wss://nostr.mutinywallet.com,wss://relay.damus.io,wss://nostr-pub.wellorder.net,wss://relay.current.fyi,wss://relay.nostr.band"
+></script>
+<link rel="stylesheet" href="https://nostri.chat/public/bundle.css">
